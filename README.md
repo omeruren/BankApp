@@ -2,6 +2,7 @@
 Bu proje, C# Windows Forms kullanılarak geliştirilmiş gerçekçi bir bankacılık uygulamasıdır. Uygulama, kullanıcıların hesap oluşturmasına, giriş yapmasına, bakiye görüntülemesine, para yatırıp çekmesine, havale yapmasına ve işlem geçmişini görüntülemesine olanak tanır.
 
 🚀 Özellikler
+
 • ✅ Kullanıcı kayıt ve giriş sistemi (SHA256 ile şifreleme)
 
 • ✅ Hesap oluşturma (benzersiz hesap no)
